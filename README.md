@@ -1,4 +1,4 @@
-Task 3: Basic Login System
+Basic Login System
 
 Description
 A basic Python login system that allows users to input a username and password, and verifies the credentials against a predefined dictionary.
